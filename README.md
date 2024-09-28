@@ -14,7 +14,7 @@ This is a modern, responsive dashboard application built using **Vite**, **React
 
 You can check out the live version of the dashboard on Netlify:
 
-🔗 [Live Website](https://your-dashboard-app.netlify.app)
+🔗 [Live Website](https://react-ts-dashboard-jagarnathpatro.netlify.app/)
 
 ## Tech Stack
 
